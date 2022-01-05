@@ -82,3 +82,9 @@ hr {
   border-radius: 20px;
   width: 250px;
 }
+.fa-star {
+  color: #ffc014;
+}
+.nofill {
+  color: #aeaeae;
+}
